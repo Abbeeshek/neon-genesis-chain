@@ -9,7 +9,7 @@ const features = [
   {
     icon: DollarSign,
     title: "Ultra-Low Gas Fees",
-    description: "Even at peak load, transaction costs stay extremely low, making MBTC more usable for daily operations.",
+    description: "Even at peak load, transaction costs stay extremely low, making IBTC more usable for daily operations.",
   },
   {
     icon: TrendingUp,

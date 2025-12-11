@@ -1,7 +1,7 @@
 import Hero from "@/components/Hero";
 import WhatIsSection from "@/components/WhatIsSection";
 import CoreFeatures from "@/components/CoreFeatures";
-import MBTCIntegration from "@/components/MBTCIntegration";
+import IBTCIntegration from "@/components/IBTCIntegration";
 import WTCConnection from "@/components/WTCConnection";
 import WhyStandsOut from "@/components/WhyStandsOut";
 import FutureVision from "@/components/FutureVision";
@@ -13,7 +13,7 @@ const Index = () => {
       <Hero />
       <WhatIsSection />
       <CoreFeatures />
-      <MBTCIntegration />
+      <IBTCIntegration />
       <WTCConnection />
       <WhyStandsOut />
       <FutureVision />
