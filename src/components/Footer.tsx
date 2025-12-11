@@ -1,5 +1,5 @@
 const Footer = () => {
-  const links = ["Home", "Ecosystem", "Blockchain", "MBTC", "WTC", "Contact"];
+  const links = ["Home", "Ecosystem", "Blockchain", "IBTC", "WTC", "Contact"];
 
   return (
     <footer className="py-12 border-t border-border relative">

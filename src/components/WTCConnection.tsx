@@ -23,7 +23,7 @@ const WTCConnection = () => {
             <div className="p-6 bg-card rounded-xl border border-border hover:border-secondary transition-colors">
               <h3 className="text-xl font-semibold text-secondary mb-3">2. Cross-Chain Compatibility</h3>
               <p className="text-muted-foreground">
-                Secure bridges enable WTC-based businesses to interact with MBTC and other assets.
+                Secure bridges enable WTC-based businesses to interact with IBTC and other assets.
               </p>
             </div>
 
@@ -41,7 +41,7 @@ const WTCConnection = () => {
             </h3>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="text-center p-6 bg-card/50 rounded-lg">
-                <div className="text-primary text-4xl font-bold mb-2">MBTC Layer</div>
+                <div className="text-primary text-4xl font-bold mb-2">IBTC Layer</div>
                 <p className="text-muted-foreground">consumer activities, DeFi, payments</p>
               </div>
               <div className="text-center p-6 bg-card/50 rounded-lg">

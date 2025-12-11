@@ -17,7 +17,7 @@ const WhatIsSection = () => {
             <h3 className="text-2xl font-semibold text-foreground mb-4">It is the foundation layer for:</h3>
             <ul className="grid md:grid-cols-2 gap-4">
               {[
-                "the MiniBitcoin token (MBTC)",
+                "the MiniBitcoin token (IBTC)",
                 "our CryptoBank",
                 "cross-border payments",
                 "decentralized storage",
